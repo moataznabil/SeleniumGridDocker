@@ -31,6 +31,8 @@ Docker your Selenium Grid in 5 simple steps (Linux Edition)
 
 **http://localhost:4444/grid/console**
 
+![alt text](https://raw.githubusercontent.com/moataznabil/SeleniumGridDocker/master/grid.gif)
+
 7- In your test project you can use the url in your test cases with Desired Capabilities for Chrome and Firefox browsers
 
 Note: 
