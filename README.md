@@ -23,10 +23,15 @@ Docker your Selenium Grid in 5 simple steps (Linux Edition)
 
 `run.sh`
 
-5- Simply run your shell script and you will have fully functioning Selenium Grid with 5 Firefgox instances and 5 Chrome instances
+5- Simply run your shell script and you will have fully functioning Selenium Grid with 5 Firefox instances and 5 Chrome instances
 
 `sh run.sh`
 
+6- Now you can open your browser and redirect to selenium grid url 
+
+**http://localhost:4444/grid/console**
+
+7- In your test project you can use the url in your test cases with Desired Capabilities for Chrome and Firefox browsers
 
 Note: 
 If you want to stop the docker-compose you can use:
