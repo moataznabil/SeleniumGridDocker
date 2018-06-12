@@ -35,4 +35,4 @@ If you want to stop the docker-compose you can use:
 
 For reference: 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/master/path/to/docker_Linux.png)
+![alt text](https://raw.githubusercontent.com/moataznabil/SeleniumGridDocker/master/docker_Linux.png)
